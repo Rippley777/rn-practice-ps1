@@ -2,6 +2,10 @@
   "migIndex": 1,
   "data": [
     {
+      "path": "assets/fonts/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
       "path": "assets/fonts/Ubuntu-Light.ttf",
       "sha1": "d060b0ff74b379dcc3d10ac2d024602af419d9f0"
     },

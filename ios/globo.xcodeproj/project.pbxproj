@@ -16,6 +16,7 @@
 		7699B88040F8A987B510C191 /* libPods-globo-globoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-globo-globoTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		AC75B643943F4DFCB65A3A70 /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A960748870BB4C19B1ADDF79 /* Ubuntu-Light.ttf */; };
+		F2CBE7EF5A9B45F4BBC4115F /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB33CE4913D440209B915029 /* Ubuntu-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		A960748870BB4C19B1ADDF79 /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Light.ttf"; path = "../assets/fonts/Ubuntu-Light.ttf"; sourceTree = "<group>"; };
 		ECD060F92B644EC7916C5C86 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Regular.ttf"; path = "../assets/fonts/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FB33CE4913D440209B915029 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; name = "Ubuntu-Bold.ttf"; path = "../assets/fonts/Ubuntu-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			children = (
 				A960748870BB4C19B1ADDF79 /* Ubuntu-Light.ttf */,
 				ECD060F92B644EC7916C5C86 /* Ubuntu-Regular.ttf */,
+				FB33CE4913D440209B915029 /* Ubuntu-Bold.ttf */,
 			);
 			name = Resources;
 			path = "";
@@ -261,6 +264,7 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				AC75B643943F4DFCB65A3A70 /* Ubuntu-Light.ttf in Resources */,
 				2AC9FB990DD34D3BA35D6A9F /* Ubuntu-Regular.ttf in Resources */,
+				F2CBE7EF5A9B45F4BBC4115F /* Ubuntu-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
